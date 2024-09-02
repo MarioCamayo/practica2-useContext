@@ -1,0 +1,8 @@
+:root{
+  color-scheme:light dark;
+}
+body{
+  width: 100vw;
+  display: grid;
+  place-items: center;
+}
